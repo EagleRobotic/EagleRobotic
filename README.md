@@ -5,13 +5,13 @@
 
 - 📝 Studying: **Control & Automation Systems**
 
-- 🔭 Research Goal: **reach the prior knowledge about AI & Robotics**
+- 🔭 Research Goal: **Reach the prior knowledge about AI & Robotics**
 
-- 💬 Ask us about **Robotics and Control Systems**
+- 💬 Ask us about: **Robotics and Control Systems**
 
-- 📫 How to reach us **roboticseagle@gmail.com & bagin@hho.msu.edu.tr**
+- 📫 How to reach us: **roboticseagle@gmail.com & bagin@hho.msu.edu.tr**
 
-- ⚡ Fun fact **Researhcing and Developing**
+- ⚡ Fun fact: **Researhcing and Developing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -9,7 +9,7 @@
 
 - 💬 Ask us about: **Robotics and Control Systems**
 
-- 📫 How to reach us: **roboticseagle@gmail.com & bagin@hho.msu.edu.tr**
+- 📫 How to reach us: **roboticseagle@gmail.com**
 
 - ⚡ Fun fact: **Researhcing and Developing**
 

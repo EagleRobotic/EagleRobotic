@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, It's EagleRobotic!</h1>
+<h1 align="center">Hi 👋, It's EagleRobotics!</h1>
 <h3 align="center">Laboratory about Control Systems, AI, Robotic, UAV, Drones and Robotic Systems.</h3>
 
-- :computer: Definition: **NDU Air Force Academy Control Systems Laboratory.**
+- :computer: Definition: **Control Systems Research Group.**
 
 - 📝 Studying: **Control & Automation Systems**
 
